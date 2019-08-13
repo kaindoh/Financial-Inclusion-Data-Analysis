@@ -1,5 +1,5 @@
 # Financial-Inclusion-Data-Analysis
-##imported necessary files
+## imported necessary files
 
 import matplotlib.pyplot as plt
 %matplotlib inline
@@ -25,34 +25,34 @@ from sklearn.model_selection import train_test_split
 import statsmodels.api as sm
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 
-##loading files and gettting the preview of the data using pandas
+## loading files and gettting the preview of the data using pandas
 
-##creating hypothesis
+## creating hypothesis
 Ho: An Individual has a bank account
 H1:An individual has no bank account
 
-##cleaning dataset
+## cleaning dataset
 making the columns to be uniform
 Removing duplicates
 Removing missing values
 Removing outliers
 
-##visualization
+## visualization
 I plotted the following
 scatter plots
 bar plots
 pie charts
 line graphs
 
-##Creatinf a model
+## Creating a model
 I created a model using RandomForestclassifier
 
-##reduction method
+## reduction method
 Principle component Analysis
 Linear reggresion
 Linear Discriminant Analysis
 
-##Conclusion 
+## Conclusion 
 The best reduction method was LDA with accuracy of 88.89% predictions
 Histogram
 
