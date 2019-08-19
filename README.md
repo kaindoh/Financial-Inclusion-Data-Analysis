@@ -45,7 +45,7 @@ pie charts
 line graphs
 
 ## Creating a model
-I created a model using RandomForestclassifier
+I created a model using RandomForestclassifier and logistic reggresion
 
 ## reduction method
 Principle component Analysis
